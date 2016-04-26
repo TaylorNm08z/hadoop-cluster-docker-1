@@ -1,4 +1,4 @@
->中文说明请拼命往下翻页... sorry:(
+
 
 Quickly build arbitrary size Hadoop Cluster based on Docker
 ------
